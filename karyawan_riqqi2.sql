@@ -1,0 +1,6 @@
+Riqqi	7000000	Jl.KH.Abdul Wahab 31	2022-07-06 18:38:13
+salma	500000	Simbang Kulon	2022-07-06 19:12:27
+izul	500	wonoyoso	2022-07-07 01:06:08
+riyan	3000000	tangkil kulon	2022-07-06 19:34:59
+ulil	2300000	paesan	2022-07-06 19:34:59
+obi	3800000	sapugarut	2022-07-06 19:34:59

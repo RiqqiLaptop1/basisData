@@ -1,0 +1,6 @@
+1	Riqqi	Jl.KH.Abdul Wahab 31	7000000	2022-07-06 18:38:13
+4	salma	Simbang Kulon	500000	2022-07-06 19:12:27
+5	izul	wonoyoso	500	2022-07-07 01:06:08
+6	riyan	tangkil kulon	3000000	2022-07-06 19:34:59
+7	ulil	paesan	2300000	2022-07-06 19:34:59
+8	obi	sapugarut	3800000	2022-07-06 19:34:59

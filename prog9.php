@@ -13,9 +13,11 @@
   if (isset($_POST['update'])) :
     $conn = mysqli_connect('localhost', 'root', '', 'toko_emas_riqqi_db') or die(mysqli_error($conn));
     $id = htmlspecialchars($_POST['id']);
+    $nama = htmlspecialchars($_POST['nama']);
     $gaji = htmlspecialchars($_POST['gaji']);
 
     $sql = "UPDATE karyawan_riqqi SET 
+    nama_karyawan = $nama,
       gaji_karyawan = $gaji
       WHERE id_karyawan = $id";
     $retval = mysqli_query($conn, $sql) or die(mysqli_error($conn));
@@ -31,6 +33,11 @@
             <td><label for="id">ID Karyawan</label></td>
             <td>:</td>
             <td><input type="text" name="id" id="id"></td>
+          </tr>
+          <tr>
+            <td><label for="nama">Nama Karyawan</label></td>
+            <td>:</td>
+            <td><input type="text" name="nama" id="nama"></td>
           </tr>
           <tr>
             <td><label for="gaji">Gaji Karyawan</label></td>

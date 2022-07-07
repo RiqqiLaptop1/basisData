@@ -21,7 +21,7 @@
   else :
   ?>
     <fieldset>
-      <legend>Tambah Data Karyawan</legend>
+      <legend>Hapus Data Karyawan</legend>
       <form action="" method="POST">
         <table>
           <tr>
